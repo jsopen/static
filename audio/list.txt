@@ -1,0 +1,16 @@
+1、background music
+2、welcome to baccarat room
+3、user start bets
+4、chlips on table
+5、bets succesful
+6、no more bets plz
+7、banker win
+8、banker and banker pair win
+9、banker and player pair win
+10、player win
+11、player and banker pair win
+12、player and player pair win
+13、tie 
+14、tie and banker pair win
+15、tie and player pair win
+16、user win money（after read result）
