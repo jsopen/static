@@ -1,14 +1,14 @@
-# Files List
+# 文件列表 Files List
 
-## 1.Voice Files
+## 1.语音文件 Voice Files
 
-`Pre URL`:  https://res-global.1315cdn.com:11443/statics/music/
+`语音文件URL前缀 voice files Pre URL`:  https://res-global.1315cdn.com:11443/statics/music/
 
-`exmaple: Baccarat background music`
+`示例exmaple: 百家乐背景音乐 Baccarat background music`
 
 https://res-global.1315cdn.com:11443/statics/music/1_en.mp3 
 
-### 1.1.Baccarat
+### 1.1.百家乐(Baccarat)
 
 ```properties
 #background music
@@ -61,7 +61,7 @@ https://res-global.1315cdn.com:11443/statics/music/1_en.mp3
 16_en.mp3 (EN)
 ```
 
-### 1.2.Dragon Tiger
+### 1.2.龙虎(Dragon&Tiger)
 
 ```properties
 #欢迎光临 welcome
