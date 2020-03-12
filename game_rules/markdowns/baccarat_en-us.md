@@ -28,9 +28,9 @@ This game is played with 8 decks (52 cards each) for a total of 416 decks, "Play
 | Ace           | 1                                                   |
 | K, Q, J or 10 | 0                                                   |
 
-"When the sum of the points fo any cards is 8 or 9, it is called (Born winner).
+When the sum of the points fo any cards is 8 or 9, it is called (Born winner).
 
-"After sending out two cards, if a card is needed, an additional card will be dealt to the party who needs it in accordance with the rules of the card.
+After sending out two cards, if a card is needed, an additional card will be dealt to the party who needs it in accordance with the rules of the card.
 
 ```math
 Example:
@@ -40,8 +40,36 @@ Example:
 
 ```
 
-| "Player" two cards total points | "Player"              | "Banker" two cards total points | "Banker"              |
-| ------------------------------- | --------------------- | ------------------------------- | --------------------- |
-| 0                               | must got a third card | 0                               | must got a third card |
-| 1                               | must got a third card | 1                               | must got a third card |
-| 2                               | must got a third card | 2                               | must got              |
+| "Player" two cards total points | "Player"                  | "Banker" two cards total points | "Banker"                  |
+| ------------------------------- | ------------------------- | ------------------------------- | ------------------------- |
+| 0                               | must got a third card     | 0                               | must got a third card     |
+| 1                               | must got a third card     | 1                               | must got a third card     |
+| 2                               | must got a third card     | 2                               | must got                  |
+| 3                               | must got a third card     | 3                               | must got a third card     |
+| 4                               | must got a third card     | 4                               | must got                  |
+| 5                               | must got a third card     | 5                               | must got a third card     |
+| 6                               | must not got a third card | 6                               | must not got a third card |
+| 7                               | must not got a third card | 7                               | must not got a third card |
+| 8                               | "Born Winner"             | 8                               | "Born Winner"             |
+| 9                               | "Born Winner"             | 9                               | "Born Winner"             |
+
+### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) Rate
+
+This game privides players with baccarat gameplay.
+THe bet types and rate are as follows:
+
+| Betting type | Rate                                                                |
+| ------------ | ------------------------------------------------------------------- |
+| Player       | 1:1 (Refund bet amount if results is Tie)                           |
+| Player       | 1:0.95 (Refund bet amount if results is Tie)                        |
+| Tie          | 1:8                                                                 |
+| Player Pair  | 1:11 (The starting card of "Player" is the same number or alphabet) |
+| Banker Pair  | 1:11 (The starting card of "Banker" is the same number or alphabet) |
+
+#### Banker/Player Pair
+
+Banker/Player Pair : Refers to the card face ( same number or alphabet, no matter card type) of the first two cards of "Banker/Player" dealt by the authorities, the card face are the same "Pair". In the game, the first two cards face of "Banker" have the same as "Banker Pair" that is the bet on "Banker Pair" is win. The first two cards face of "Player" have the same as "Player Pair" that is the bet on "Player Pair" is win.
+
+### ![Notice](https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png) Notice
+
+In case of settlement errors, re-settle according to the current video results.
