@@ -20,7 +20,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
 | ----------- | ------------------------------------------------------------------------------------------------------ |
 | FiveCalf    | Each card is less than 5 and all cards sum up to less than or equal to 10.                             |
 | Bomb        | 4 of 5Cards must be same and the last any card.                                                        |
-| Gold Bull   | All 5 Cards must be Above 10(for eg.J,Q,K).                                                            |  | FiveCalf | Each card is less than 5 and all cards sum up to less than or equal to 10. |
+| Gold Bull   | All 5 Cards must be Above 10(for eg.J,Q,K).                                                            |  
 | Silver Bull | 5 Cards are all 10 and above, including at least 1 card is 10.                                         |
 | Bull Bull   | The sum of any 3 cards is a multiple of 10, and the sum of the other 2 cards is also a multiple of 10. |
 | Bull(9)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 9 or 19.                                    |
