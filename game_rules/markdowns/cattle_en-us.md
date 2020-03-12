@@ -12,7 +12,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
    type,it is considered a win.
 3. Size compare:
 
-   FiveCalf>Bomb>Gold Bull>Silver Bull>Bull Bull>Bull(9)>Bull(8)>Bull(7)>Bull(6)>Bull(5)>Bull(4)>Bull(3)>Bull(2)>Bull(1)>No Bull.
+   FiveCalf > Bomb > Gold Bull > Silver Bull > Bull Bull > Bull(9) > Bull(8) > Bull(7) > Bull(6) > Bull(5) > Bull(4) > Bull(3) > Bull(2) > Bull(1) > No Bull.
 
    \*Note:Bet on both "Red Bull" and "Black Bull" counts as hedge Game.
 
