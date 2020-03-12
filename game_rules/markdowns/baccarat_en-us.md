@@ -18,7 +18,7 @@ In Baccarats Distribute two player cards <\<player\>> and <\<Banker\>>, which on
 
 This game is played with 8 decks (52 cards each) for a total of 416 decks, "Player" "Banker" each send two cards, start with "Player", If the first round is not divided win lose, the second round of cards shall be dealt according to the "card case". Draw a card, whoever is near to 9 points is the winner, and the same point is the Tie.
 
-### ![Game rules](https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_p.png) Game rules
+### ![Game rules](https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_r.png) Game rules
 
 1. Points Calculation
 
