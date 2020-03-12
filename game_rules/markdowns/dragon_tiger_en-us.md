@@ -20,17 +20,17 @@ Correctly expected the two player <\<Dragon\>> and <\<Tiger\>> points to be comp
 
 The size of the board is first compared to the number of points, the maximum number of point is K, and the minimum number of point is A,2-10 corresponds to the corresponding points, if the points are the same,than compare card type, the card type size is 'spade','heart','club'and 'diamond' if the number of points is the same as the card type it is Tie.
 
-### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) 派彩赔率
+### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) 派 彩 赔 率
 
 | Bet items     | Rate                                              |
 | ------------- | --------------------------------------------------- |
-| Dragon       | 1:0.97 (Refund bet amount results is Tie) |
-| Tiger           | 1:0.97 (Refund bet amount results is Tie)                                                   |
-| Tie | 1:8                                        
-|Dragon even     | 1:0.75
-|Dragon odd      | 1:1.05
-|Tiger even      | 1:0.75
-|Tiger odd       | 1:0.75
+| Dragon       | 1 : 0.97 (Refund bet amount results is Tie) |
+| Tiger           | 1 : 0.97 (Refund bet amount results is Tie)                                                   |
+| Tie | 1 : 8                                        
+|Dragon even     | 1 : 0.75
+|Dragon odd      | 1 : 1.05
+|Tiger even      | 1 : 0.75
+|Tiger odd       | 1 : 0.75
 
 ### ![Notice](https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png) Notice
 
