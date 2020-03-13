@@ -21,13 +21,13 @@ Baccarat game play rules of the five road rules, there are "Zhuzi road","Big roa
 
 ![Big eyes Road](https://res-global.1315cdn.com:11443/statics/game_rules/img_2.png)
 
-    - First, Big eyes road generated from the "big road" road list.The reference point of the starting point mark starts from the second row and second column of the road,If "Banker" or "Player" ,starting form the third row and first row of the road as a reference point.
-    - The road regulations are generally:The first grain(ie the first grain of the big road)looks neat,neatly red, and irregularly blue,the second grain one is to see if there is or straight down,if there is or straight down to red,nothing to blue.
-    - Neat,is the number of red and blue in the first two columns of the current reference point of the big road(excluding the column where the reference point is located)equal.
-    - With or without,The second level of "Big Road"looks forward one grain,there is one grain in front,red for both red and blue and blue for none.
-    - Straight drop,No previous grain,and before the second grain,there is no grain,and it falls to red.
+- First, Big eyes road generated from the "big road" road list.The reference point of the starting point mark starts from the second row and second column of the road,If "Banker" or "Player" ,starting form the third row and first row of the road as a reference point.
+- The road regulations are generally:The first grain(ie the first grain of the big road)looks neat,neatly red, and irregularly blue,the second grain one is to see if there is or straight down,if there is or straight down to red,nothing to blue.
+- Neat,is the number of red and blue in the first two columns of the current reference point of the big road(excluding the column where the reference point is located)equal.
+- With or without,The second level of "Big Road"looks forward one grain,there is one grain in front,red for both red and blue and blue for none.
+- Straight drop,No previous grain,and before the second grain,there is no grain,and it falls to red.
 
-      Big eye road rules for drawing blue circles :
+Big eye road rules for drawing blue circles :
 
 | (1)Down                                                                                                                    | (2)Swap                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ Take the latest result of Big Road,such as comparing the results of the previous
 
 4.  ZhuziRoad  
     Red,Blue,Green express Banker win, player win,Tie.  
-    The red dot in the upper left corner indicates the presence of banker pair,the blue dot in the lower right corner indicates the presence of player pair, if"banker pair" and "player pair" appear at the same time,mark the red and blue dots in both the upper left and lower right corners.
+    The red dot in the upper left corner indicates the presence of banker pair,the blue dot in the lower right corner indicates the presence of player pair, if"banker pair" and "player pair" appear at the same time,mark the red and blue dots in both the upper left and lower right corners.  
     ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_8.png)
 5.  Small Road
 
