@@ -8,9 +8,9 @@
 2. 牛一，牛二……牛牛，银牛/金牛/炸弹/五小牛：只要红黑两家任意一家出现指定牌型即算赢
 双牛牛	红黑两家都为牛牛牌型
    type,it is considered a win.
-3. Size compare:
+3. 大小比较:
 
-   FiveCalf > Bomb > Gold Bull > Silver Bull > Bull Bull > Bull(9) > Bull(8) > Bull(7) > Bull(6) > Bull(5) > Bull(4) > Bull(3) > Bull(2) > Bull(1) > No Bull.
+   五小牛>炸弹>金牛>银牛>牛牛>牛九>牛八>牛七>牛六>牛五>牛四>牛三>牛二>牛一>无牛
 
    \*注意：
 同时下注“红牛”和“黑牛”算作对冲玩法
@@ -19,41 +19,41 @@
 | ----------- | ------------------------------------------------------------------------------------------------------ |
 | 5小牛    | 每张牌都小于5 ，且所有牌加起來小於或等於10                             |
 | 炸弹        | 5张牌里有4张相同的牌加1张任意牌                                                        |
-| 金牛   | 5张牌都为10以上的牌不包括10                                                            |  | 银牛 | 5张牌都为10及以上的牌至少包括1张10 |
-| Silver Bull | 5 Cards are all 10 and above, including at least 1 card is 10.                                         |
-| Bull Bull   | The sum of any 3 cards is a multiple of 10, and the sum of the other 2 cards is also a multiple of 10. |
-| Bull(9)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 9 or 19.                                    |
-| Bull(8)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 8 or 18.                                    |
-| Bull(7)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 7 or 17.                                    |  |
-| Bull(6)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 6 or 16.                                    |  |
-| Bull(5)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 5 or 15.                                    |  |
-| Bull(4)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 4 or 14.                                    |  |
-| Bull(3)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 3 or 13.                                    |  |
-| Bull(2)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 2 or 12.                                    |  |
-| Bull(1)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 1 or 11.                                    |  |
-| No Bull     | The sum of any 3 cards is not 10.                                                                      |
+| 金牛   | 5张牌都为10以上的牌不包括10                                                            |  
+| 银牛 | 5张牌都为10及以上的牌`ETX`至少包括1张10                                         |
+| 牛牛   | 任意3张牌之和为10的倍数，其余2张之和也为10的倍数 |
+| 牛九     | 3张10的倍数组合，剩余2张相加为9或19.                                    |
+| 牛八     | 3张10的倍数组合，剩余2张相加为8或18.                                    |
+| 牛七     | 3张10的倍数组合，剩余2张相加为7或17.                                    |  |
+| 牛六     | 3张10的倍数组合，剩余2张相加为6或16.                                    |  |
+| 牛五     | 3张10的倍数组合，剩余2张相加为5或15.                                    |  |
+| 牛四     | 3张10的倍数组合，剩余2张相加为4或14.                                    |  |
+| 牛三     | 3张10的倍数组合，剩余2张相加为3或13.                                    |  |
+| 牛二     | 3张10的倍数组合，剩余2张相加为2或12.                                    |  |
+| 牛一     | 3张10的倍数组合，剩余2张相加为1或11                                    |  |
+| 无牛     | 五张牌中没有任意三张牌，点数之和为10的整数倍                                                                      |
 
-### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) Rate
+### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) 派 彩 赔 率
 
-| Bet items                            | Rate     |
+| 牌型                            | 赔率     |
 | ------------------------------------ | -------- |
-| Back Bull                            | 1 : 0.95 |
-| Red Bull                             | 1 : 0.95 |
-| Tie                                  | 1 : 5    |
-| Bull(1)                              | 1 : 5    |
-| Bull(2)                              | 1 : 5    |
-| Bull(3)                              | 1 : 5    |
-| Bull(4)                              | 1 : 5    |
-| Bull(5)                              | 1 : 5    |
-| Bull(6)                              | 1 : 5    |
-| Bull(7)                              | 1 : 5    |
-| Bull(8)                              | 1 : 5    |
-| Bull(9)                              | 1 : 5    |
-| Bull Bull                            | 1 : 5    |
-| Double Bull                          | 1 : 100  |
-| Silver Bull/Gold Bull/Five Calf/Bomb | 1 : 120  |
+| 黑牛                            | 1 : 0.95 |
+| 红牛                             | 1 : 0.95 |
+| 和                                  | 1 : 5    |
+| 牛一                              | 1 : 5    |
+| 牛二                              | 1 : 5    |
+| 牛三                              | 1 : 5    |
+| 牛四                              | 1 : 5    |
+| 牛五                              | 1 : 5    |
+| 牛六                              | 1 : 5    |
+| 牛七                              | 1 : 5    |
+| 牛八                              | 1 : 5    |
+| 牛九                              | 1 : 5    |
+| 牛牛                            | 1 : 5    |
+| 双牛牛                          | 1 : 100  |
+| 银牛/金牛/炸弹/五小牛 | 1 : 120  |
 
-### ![Notice](https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png) Notice :
+### ![Notice](https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png) 注 意 事 项 :
 
-1. In case of settlement errors, re-settle according to the current video results.
-2. If the game fails to complete the game due to the failure of the game platform network during the game, the system will cancel the player's bet and return the bet principal.
+1. 如遇结算错误，按照当期视频结果重新结算。
+2. 如游戏过程中因游戏平台网络等故障造成未能正常完成牌局,系统将取消整局玩家下注并退回下注本金。
