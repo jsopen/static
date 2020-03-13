@@ -55,7 +55,7 @@ Take the latest result of Big Road,such as comparing the results of the previous
     - The method of judging whether it is neat,with or without and whether it is straight drop is the same as the method of big eye road,the difference is:The two columns referenced by "Small road" are the current column and the previous column,that is,the third column and the first column,the fourth column and the second column and so on.
       ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_9.png)
 
-Small road rules for drawing blue dot \:
+Small road rules for drawing blue dot :
 
 | (1)Down                                                                                                           | (2) Swap                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -63,14 +63,15 @@ Small road rules for drawing blue dot \:
 | Comparison the top two results with the latest results from level,if no result,draw a blue dot on the small road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first third columns are not aligned,the result is "small road" blue dot. |
 
 Small road rules for drawing red dot :
-|(1) Down| &nbsp; |
-|-------|---------|
-| ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_12.png) | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_13.png) |
-| Comparison the top two results with the latest results from level,whether the result is "banker" or "player",the result is "small road" red dot. | Comparison the top two results with the latest results from level,As the first two rows of the previous column have no results,the result is "small road"red dot.
+
+| (1) Down                                                                                                                                         | &nbsp;                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_12.png)                                                                    | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_13.png)                                                                                     |
+| Comparison the top two results with the latest results from level,whether the result is "banker" or "player",the result is "small road" red dot. | Comparison the top two results with the latest results from level,As the first two rows of the previous column have no results,the result is "small road"red dot. |
 
 (2) Swap  
 ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_14.png)  
- Take the latest result of Big Road, such as comparing the results of the previous column and the first third columns are aligned,the result is "small road" red dot.|
+ Take the latest result of Big Road, such as comparing the results of the previous column and the first third columns are aligned,the result is "small road" red dot.
 
 6.  Bug Road
 
@@ -80,10 +81,11 @@ Small road rules for drawing red dot :
     ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_15.png)
 
 Bug road rules for drawing blue Slash :
-| (1)Down | (2)Swap |
-|------|------|
-| ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_16.png) | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_17.png) |
-|Comparison the top third results with the latest results from level,if no result,draw blue slash on the Bug road.|Take the latest result of Big Road,such as comparing the results of the previous column and the first fourth columns are not aligned,draw blue slash on the bug road.|
+
+| (1)Down                                                                                                           | (2)Swap                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_16.png)                                     | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_17.png)                                                                                         |
+| Comparison the top third results with the latest results from level,if no result,draw blue slash on the Bug road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first fourth columns are not aligned,draw blue slash on the bug road. |
 
 Bug road rules for drawing blue Slash :
 
