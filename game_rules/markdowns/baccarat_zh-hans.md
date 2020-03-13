@@ -1,5 +1,3 @@
-# hello
-
 ### ![introduction](https://res-global.1315cdn.com:11443/statics/game_rules/icon_i.png) 简 介
 
 长期以来，百家乐是亚洲、欧洲和拉丁美洲最受欢迎的游戏之一，玩法简单，却紧张刺激！
