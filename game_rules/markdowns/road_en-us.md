@@ -74,8 +74,8 @@ Small road rules for drawing red dot :
 
 6.  Bug Road
 
-        - The starting reference point if from the fourth column and the second line of the big road,If there is no result at this coordinate in the big road,the starting reference point is the first row of the five column.
-        - The method of judging whether it is neat,with or without and whether it is straight drop is the same as the method of big eye road,the difference is:The two columns referenced by "Bug road" are the current column and the previous column,that is,the fourth column and the first column,the five column and the second column and so on.
+    - The starting reference point if from the fourth column and the second line of the big road,If there is no result at this coordinate in the big road,the starting reference point is the first row of the five column.
+    - The method of judging whether it is neat,with or without and whether it is straight drop is the same as the method of big eye road,the difference is:The two columns referenced by "Bug road" are the current column and the previous column,that is,the fourth column and the first column,the five column and the second column and so on.
 
     ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_15.png)
 
@@ -87,7 +87,7 @@ Bug road rules for drawing blue Slash :
 
 Bug road rules for drawing blue Slash :
 
-| (1)Down                                                                                                                                             |                                                                                                                                                                         |
+| (1)Down                                                                                                                                             | &nbsp;                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_18.png)                                                                       | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_19.png)                                                                                           |
 | Comparison the top three results with the latest results from level,whether the result is "banker" or "player" the results is "bug road" red slash. | Comparison the top three results with the latest results from level,As the first two rows of the first three column have no results,the result is "bug road" red slash. |
