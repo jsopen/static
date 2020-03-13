@@ -55,9 +55,9 @@ Take the latest result of Big Road,such as comparing the results of the previous
     - The method of judging whether it is neat,with or without and whether it is straight drop is the same as the method of big eye road,the difference is:The two columns referenced by "Small road" are the current column and the previous column,that is,the third column and the first column,the fourth column and the second column and so on.
       ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_9.png)
 
-Small road rules for drawing blue dot :
+Small road rules for drawing blue dot \:
 
-| (1)Down                                                                                                           | (2)Swap                                                                                                                                                                  |
+| (1)Down                                                                                                           | (2) Swap                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_10.png)                                     | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_11.png)                                                                                            |
 | Comparison the top two results with the latest results from level,if no result,draw a blue dot on the small road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first third columns are not aligned,the result is "small road" blue dot. |
