@@ -80,7 +80,7 @@ Small road rules for drawing red dot :
     ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_15.png)
 
 Bug road rules for drawing blue Slash :
-|(1)Down | (2)Swap |
+| (1)Down | (2)Swap |
 |------|------|
 | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_16.png) | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_17.png) |
 |Comparison the top third results with the latest results from level,if no result,draw blue slash on the Bug road.|Take the latest result of Big Road,such as comparing the results of the previous column and the first fourth columns are not aligned,draw blue slash on the bug road.|
