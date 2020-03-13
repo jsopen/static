@@ -44,8 +44,10 @@ Big eye road rules for drawing Red circles:
 | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_5.png)                                                                              | ![Down 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_6.png)                                                                                               |
 | Comparison of the previous results with the latest results form level,whether the result is "banker" or "player",the result is "big eye road" red circle. | Comparison of the previous results with the latest results from level,As the first two rows of the previous column have no results,the result is "big eye road"red circle. |
 
-(2)Swap  
-![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_7.png)  
+(2)Swap
+
+<img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_7.png" alt="swap 2" class="mw-135">
+
 Take the latest result of Big Road,such as comparing the results of the previous column and the first two columns are aligned,the result is "big eye road" red circle.
 
 ### 4.ZhuziRoad
