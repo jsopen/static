@@ -1,12 +1,12 @@
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_i.png" alt="swap 2" class="mw-135"> 简 介
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_i.png" alt="swap 2" class="mw-135"> 简 介
 
 长期以来，百家乐是亚洲、欧洲和拉丁美洲最受欢迎的游戏之一，玩法简单，却紧张刺激！
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_win.png" alt="swap 2" class="mw-135"> 如 何 胜 出
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_win.png" alt="swap 2" class="mw-135"> 如 何 胜 出
 
 百家乐中将发两份牌<<庄家>> 和 <<闲家>>，总数得 9 点或最接近 9 点的一家胜出。
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_set.png" alt="swap 2" class="mw-135"> 操 作 及 下 注 指 南
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_set.png" alt="swap 2" class="mw-135"> 操 作 及 下 注 指 南
 
 1. 点击下注的筹码，再点击桌上任意投注区下注。
 2. 闲家和庄家将获发两张牌加起来等于 10 作 0 点，总和超过 9 则只算总数中的个位。
@@ -14,12 +14,12 @@
 4. 派出两张牌后，如果任何一手牌的头两张牌的牌面为 0 至 6，将依照博牌规则多发一张牌，不可以任选博牌。
 5. 没有任何一手牌获得超过三张牌。
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_p.png" alt="swap 2" class="mw-135"> 游 戏 玩 法
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_p.png" alt="swap 2" class="mw-135"> 游 戏 玩 法
 
 本游戏采用 8 副牌（每副牌 52 张）来进行，游戏牌数合计 416 张。"闲家""庄家"各先派两张牌，以"闲家"先发，如第一轮未分出胜负需再按"牌例"发第二轮的牌，每方最多再
 发 1 张牌，谁最接近 9 点即为胜方，而相同点数即和局。
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_r.png" alt="swap 2" class="mw-135"> 游 戏 规 则
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_r.png" alt="swap 2" class="mw-135"> 游 戏 规 则
 
 1. 点数计算
 
@@ -54,7 +54,7 @@
 | 8              | “天生赢家” | 8              | “天生赢家”                                        |
 | 9              | “天生赢家” | 9              | “天生赢家”                                        |
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png" alt="swap 2" class="mw-135"> 派 彩 赔 率
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png" alt="swap 2" class="mw-135"> 派 彩 赔 率
 
 本游戏为玩家提供百家乐玩法。
 其投注种类与派彩赔率如下 ∶
@@ -72,6 +72,6 @@
 庄/闲对子 ： 指根据当局所开之牌的庄/闲前两张牌的牌面（数字或字母，不计花式）为依据，牌面相同为 对子。游戏中，庄家前两张牌的牌面相同，为 庄对子，即押注“庄对”者为
 胜。闲家前两张牌牌面相同，为 闲对子，即押注“闲对”者为胜。
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png" alt="swap 2" class="mw-135"> 注 意 事 项:
+### <img src="https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png" alt="swap 2" class="mw-135"> 注 意 事 项:
 
 如遇结算错误，按照当期视频结果重新结算。
