@@ -36,7 +36,7 @@ Baccarat game play rules of the five road rules, there are "Zhuzi road","Big roa
 
 Big eye road rules for drawing Red circles:
 
-| (1)Down                                                                                                                                                   |                                                                                                                                                                            |
+| (1)Down                                                                                                                                                   | &nbsp;                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_5.png)                                                                              | ![Down 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_6.png)                                                                                               |
 | Comparison of the previous results with the latest results form level,whether the result is "banker" or "player",the result is "big eye road" red circle. | Comparison of the previous results with the latest results from level,As the first two rows of the previous column have no results,the result is "big eye road"red circle. |
@@ -63,7 +63,7 @@ Small road rules for drawing blue dot :
 | Comparison the top two results with the latest results from level,if no result,draw a blue dot on the small road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first third columns are not aligned,the result is "small road" blue dot. |
 
 Small road rules for drawing red dot :
-|(1) Down| |
+|(1) Down| &nbsp; |
 |-------|---------|
 | ![Down 1](https://res-global.1315cdn.com:11443/statics/game_rules/img_12.png) | ![Swap 2](https://res-global.1315cdn.com:11443/statics/game_rules/img_13.png) |
 | Comparison the top two results with the latest results from level,whether the result is "banker" or "player",the result is "small road" red dot. | Comparison the top two results with the latest results from level,As the first two rows of the previous column have no results,the result is "small road"red dot.
