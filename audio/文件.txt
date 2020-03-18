@@ -1,0 +1,156 @@
+1.音频文件 mp3
+全局音频 
+背景音乐 background       (没变）
+CN/EN
+倒计时提示音 count down alert（use it for last each ten sec）
+CN/EN	w02 
+已开局、请下注 please bets now
+CN:	w03_cn 
+EN:	w03_en
+下注成功 bets successful
+CN:	w04_cn
+EN:	w04_en
+停止下注 no more bets plz
+CN:	w05_cn
+EN:	w05_en
+和	tie 
+CN:	w06_cn 
+EN:	w06_en
+***************************************************************************
+1.1 百家乐baccarat
+欢迎光临百家乐	welcome to baccarat
+CN:	b01_cn 
+EN:	b01_en
+庄赢	banker win
+CN:	b02_cn 
+EN:	b02_en
+庄、庄对赢	banker and banker pair win
+CN:	b03_cn 
+EN:	b03_en
+庄、闲对赢	banker and player pair win
+CN:	b04_cn 
+EN:	b04_en
+庄、庄对、闲对赢	banker banker pair and player pair win
+CN:	b05_cn 
+EN:	b05_en
+闲赢	player win
+CN:	b06_cn 
+EN:	b06_en
+闲、庄对赢	player and banker pair win
+CN:	b07_cn 
+EN:	b07_en
+闲、闲对赢	player and player pair win
+CN:	b08_cn 
+EN:	b08_en
+闲、庄对、闲对赢	player banker pair and player pair win
+CN:	b09_cn 
+EN:	b09_en
+和、庄对赢	tie and banker pair win
+CN:	b10_cn 
+EN:	b10_en
+和、闲对赢	tie and player pair win
+CN:	b11_cn 
+EN:	b11_en
+和、庄对、闲对赢	tie banker pair and player pair win
+CN:	b12_cn 
+EN:	b12_en
+***************************************************************************
+1.2龙虎 dragontiger
+欢迎光临龙虎	welcome to DragonTiger
+CN:	d01_cn
+EN:	d01_en
+龙赢	Dragon win
+CN:	d02_cn
+EN:	d02_en
+虎赢	tiger win
+CN:	d03_cn
+EN:	d03_en
+龙赢、龙单、虎单赢	dragon、 dragon odd and tiger odd win
+CN:	d04_cn
+EN:	d04_en
+龙赢、龙单、虎双赢	dragon、 dragon odd and tiger even win
+CN:	d05_cn
+EN:	d05_en
+龙赢、龙双、虎单赢	dragon、 dragon even and tiger odd win
+CN:	d06_cn
+EN:	d06_en
+龙赢、龙双、虎双赢	dragon、 dragon even and tiger even win
+CN:	d07_cn
+EN:	d07_en
+虎赢、龙单、虎单赢	tiger、 dragon odd and tiger odd win
+CN:	d08_cn
+EN:	d08_en
+虎赢、龙单、虎双赢	tiger、 dragon odd and tiger even win
+CN:	d09_cn
+EN:	d09_en
+虎赢、龙双、虎单赢	tiger、 dragon even and tiger odd win
+CN:	d10_cn
+EN:	d10_en
+虎赢、龙双、虎双赢	tiger、 dragon even and tiger even win
+CN:	d11_cn
+EN:	d11_en
+和、龙单、虎单赢	tie、dragon odd and tiger odd win
+CN:	d12_cn
+EN:	d12_en
+和、龙单、虎双赢	tie、dragon odd and tiger even win
+CN:	d13_cn
+EN:	d13_en
+和、龙双、虎单赢	tie、dragon even and tiger odd win
+CN:	d14_cn
+EN:	d14_en
+和、龙双、虎双赢	tie、dragon even and tiger even win
+CN:	d15_cn
+EN:	d15_en
+***************************************************************************
+1.3牛牛 cattle
+欢迎光临牛牛	welcome to BullFight
+CN:	c01_cn
+EN:	c01_en
+黑牛	black bull
+CN:	c02_cn
+EN:	c02_en
+红牛	red bull
+CN:	c03_cn
+EN:	c03_en
+和	and
+CN:	c04_cn
+EN:	c04_en
+赢	win
+CN:	c05_cn
+EN:	c05_en
+牛一	Bull 1
+CN:	c06_cn
+EN:	c06_en
+牛二	Bull 2
+CN:	c07_cn
+EN:	c07_en
+牛三	Bull 3
+CN:	c08_cn
+EN:	c08_en
+牛四	Bull 4
+CN:	c09_cn
+EN:	c09_en
+牛五	Bull 5
+CN:	c10_cn
+EN:	c10_en
+牛六	Bull 6
+CN:	c11_cn
+EN:	c11_en
+牛七	Bull 7
+CN:	c12_cn
+EN:	c12_en
+牛八	Bull 8
+CN:	c13_cn
+EN:	c13_en
+牛九	Bull 9
+CN:	c14_cn
+EN:	c14_en
+牛牛	bull bull
+CN:	c15_cn
+EN:	c15_en
+双牛牛	Double Bull bull
+CN:	c16_cn
+EN:	c16_en
+特种牛	special Bull
+CN:	c17_cn
+EN:	c17_en
