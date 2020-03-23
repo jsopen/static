@@ -60,7 +60,7 @@
 红、蓝、绿分别表示庄赢、闲赢、和局。  
 左上角的红点标示表示出现庄对，右下角的蓝点标示表示出现闲对，如果同时出现庄对和闲对，则同时在左上角和右下角标示红点和蓝点。
 
- <img class="mw-180 zhuzi-road-sizing" src = "https://res-global.1315cdn.com:11443/statics/game_rules/img_8.png" alt="ZhuziRoad">
+ <img class="mw-180i zhuzi-road-sizing" src = "https://res-global.1315cdn.com:11443/statics/game_rules/img_8.png" alt="ZhuziRoad">
 
 ### 5.小路
 

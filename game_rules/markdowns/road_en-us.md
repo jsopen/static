@@ -55,7 +55,7 @@ Take the latest result of Big Road,such as comparing the results of the previous
 Red,Blue,Green express Banker win, player win,Tie.  
  The red dot in the upper left corner indicates the presence of banker pair,the blue dot in the lower right corner indicates the presence of player pair, if"banker pair" and "player pair" appear at the same time,mark the red and blue dots in both the upper left and lower right corners.
 
- <img class="mw-180 zhuzi-road-sizing" src = "https://res-global.1315cdn.com:11443/statics/game_rules/img_8.png" alt="ZhuziRoad">
+ <img class="mw-180i zhuzi-road-sizing" src = "https://res-global.1315cdn.com:11443/statics/game_rules/img_8.png" alt="ZhuziRoad">
 
 ### 5.Small Road
 
