@@ -40,18 +40,18 @@ Example:
 
 ```
 
-| "Player" two cards total points | "Player"                  | "Banker" two cards total points | "Banker"                  |
-| ------------------------------- | ------------------------- | ------------------------------- | ------------------------- |
-| 0                               | must got a third card     | 0                               | must got a third card     |
-| 1                               | must got a third card     | 1                               | must got a third card     |
-| 2                               | must got a third card     | 2                               | must got                  |
-| 3                               | must got a third card     | 3                               | must got a third card     |
-| 4                               | must got a third card     | 4                               | must got                  |
-| 5                               | must got a third card     | 5                               | must got a third card     |
-| 6                               | must not got a third card | 6                               | must not got a third card |
-| 7                               | must not got a third card | 7                               | must not got a third card |
-| 8                               | "Born Winner"             | 8                               | "Born Winner"             |
-| 9                               | "Born Winner"             | 9                               | "Born Winner"             |
+| "Player" two cards total points | "Player"                  | "Banker" two cards total points | "Banker"                                                                                    |
+| ------------------------------- | ------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------- |
+| 0                               | must got a third card     | 0                               | must got a third card                                                                       |
+| 1                               | must got a third card     | 1                               | must got a third card                                                                       |
+| 2                               | must got a third card     | 2                               | must got a third card                                                                       |
+| 3                               | must got a third card     | 3                               | if "player" the three card at 8 points, the "banker" must not got third card                |
+| 4                               | must got a third card     | 4                               | if "player" the three card is 0, 1, 8, 9 points, the "banker" must not got third card       |
+| 5                               | must got a third card     | 5                               | if "player" the three card is 0, 1, 2, 3, 8, 9 points, the "banker" must not got third card |
+| 6                               | must not got a third card | 6                               | if "player" the third card get is 6 or 7 points, "banker" must got a third card             |
+| 7                               | must not got a third card | 7                               | must not got a third card                                                                   |
+| 8                               | "Born Winner"             | 8                               | "Born Winner"                                                                               |
+| 9                               | "Born Winner"             | 9                               | "Born Winner"                                                                               |
 
 ### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) Rate
 
