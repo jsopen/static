@@ -180,3 +180,30 @@ EN:	d16_en
 虎	tiger
 CN:	d17_cn
 EN:	d17_en
+
+-------add files -------
+1.1 百家乐baccarat
+庄	banker
+CN:	b13_cn
+EN:	b13_en
+
+闲	player
+CN:	b14_cn
+EN:	b14_en
+
+庄对	banker pair
+CN:	b15_cn
+EN:	b15_en
+
+闲对	player pair
+CN:	b16_cn
+EN:	b16_en
+
+1.2龙虎 dragontiger
+龙	dragon
+CN:	d16_cn
+EN:	d16_en
+
+虎	tiger
+CN:	d17_cn
+EN:	d17_en
