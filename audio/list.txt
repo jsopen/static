@@ -13,9 +13,19 @@ EN:	w04_en
 停止下注 no more bets plz
 CN:	w05_cn
 EN:	w05_en
+****no w06 any more sorry, my bad******
 和	tie 
-CN:	w06_cn 
-EN:	w06_en
+CN:	rename==>w07_new_cn
+EN:	rename==>w07_new_en
+翻一张牌	show one card
+CN:	w08_cn
+EN:	w08_en
+点击筹码	chips on bets area
+CN:	4_cn  	rename==>w09_cn
+EN:	4_3n	rename==>w09_en
+用户赢钱	player win money
+CN:	16_cn	rename==>w10_cn
+EN:	16_en	rename==>w10_cn
 ***************************************************************************
 1.1 百家乐baccarat
 欢迎光临百家乐	welcome to baccarat
@@ -25,35 +35,48 @@ EN:	b01_en
 CN:	b02_cn 
 EN:	b02_en
 庄、庄对赢	banker and banker pair win
-CN:	b03_cn 
-EN:	b03_en
+CN:	b03_cn 	rename==>b03_new_cn
+EN:	b03_en	rename==>b03_new_en
 庄、闲对赢	banker and player pair win
-CN:	b04_cn 
-EN:	b04_en
+CN:	b04_cn 	rename==>b04_new_cn
+EN:	b04_en	rename==>b04_new_en
 庄、庄对、闲对赢	banker banker pair and player pair win
-CN:	b05_cn 
-EN:	b05_en
+CN:	b05_cn 	rename==>b05_new_cn
+EN:	b05_en	rename==>b05_new_en
 闲赢	player win
-CN:	b06_cn 
-EN:	b06_en
+CN:	b06_cn 	
+EN:	b06_en	
 闲、庄对赢	player and banker pair win
-CN:	b07_cn 
-EN:	b07_en
+CN:	b07_cn 	rename==>b07_new_cn
+EN:	b07_en	rename==>b07_new_en
 闲、闲对赢	player and player pair win
-CN:	b08_cn 
-EN:	b08_en
+CN:	b08_cn 	rename==>b08_new_cn
+EN:	b08_en	rename==>b08_new_en
 闲、庄对、闲对赢	player banker pair and player pair win
-CN:	b09_cn 
-EN:	b09_en
+CN:	b09_cn 	rename==>b09_new_cn
+EN:	b09_en	rename==>b09_new_en
 和、庄对赢	tie and banker pair win
-CN:	b10_cn 
-EN:	b10_en
+CN:	b10_cn 	rename==>b10_new_cn
+EN:	b10_en	rename==>b10_new_en
 和、闲对赢	tie and player pair win
-CN:	b11_cn 
-EN:	b11_en
+CN:	b11_cn 	rename==>b11_new_cn
+EN:	b11_en	rename==>b11_new_en
 和、庄对、闲对赢	tie banker pair and player pair win
-CN:	b12_cn 
-EN:	b12_en
+CN:	b12_cn 	rename==>b12_new_cn
+EN:	b12_en	rename==>b12_new_en
+1.1 百家乐baccarat
+庄	banker
+CN:	b13_cn
+EN:	b13_en
+闲	player
+CN:	b14_cn
+EN:	b14_en
+庄对	banker pair
+CN:	b15_cn
+EN:	b15_en
+闲对	player pair
+CN:	b16_cn
+EN:	b16_en
 ***************************************************************************
 1.2龙虎 dragontiger
 欢迎光临龙虎	welcome to DragonTiger
@@ -101,17 +124,23 @@ EN:	d14_en
 和、龙双、虎双赢	tie、dragon even and tiger even win
 CN:	d15_cn
 EN:	d15_en
+龙	dragon
+CN:	d16_cn
+EN:	d16_en
+虎	tiger
+CN:	d17_cn
+EN:	d17_en
 ***************************************************************************
 1.3牛牛 cattle
 欢迎光临牛牛	welcome to BullFight
 CN:	c01_cn
 EN:	c01_en
 黑牛	black bull
-CN:	c02_cn
-EN:	c02_en
+CN:	c02_cn	rename==>c02_new_cn
+EN:	c02_en	rename==>c02_new_en
 红牛	red bull
-CN:	c03_cn
-EN:	c03_en
+CN:	c03_cn	rename==>c03_new_en
+EN:	c03_en	rename==>c03_new_en
 和	and
 CN:	c04_cn
 EN:	c04_en
@@ -154,56 +183,3 @@ EN:	c16_en
 特种牛	special Bull
 CN:	c17_cn
 EN:	c17_en
----add file-------
-1.1 百家乐baccarat
-庄	banker
-CN:	b13_cn
-EN:	b13_en
-
-闲	player
-CN:	b14_cn
-EN:	b14_en
-
-庄对	banker pair
-CN:	b15_cn
-EN:	b15_en
-
-闲对	player pair
-CN:	b16_cn
-EN:	b16_en
-
-1.2龙虎 dragontiger
-龙	dragon
-CN:	d16_cn
-EN:	d16_en
-
-虎	tiger
-CN:	d17_cn
-EN:	d17_en
-
--------add files -------
-1.1 百家乐baccarat
-庄	banker
-CN:	b13_cn
-EN:	b13_en
-
-闲	player
-CN:	b14_cn
-EN:	b14_en
-
-庄对	banker pair
-CN:	b15_cn
-EN:	b15_en
-
-闲对	player pair
-CN:	b16_cn
-EN:	b16_en
-
-1.2龙虎 dragontiger
-龙	dragon
-CN:	d16_cn
-EN:	d16_en
-
-虎	tiger
-CN:	d17_cn
-EN:	d17_en
