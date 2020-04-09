@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>print use cmd 通过指令打印</title>
+<script language="javascript" src="LodopFuncs.js"></script>
+</head>
+<body>
+<textarea rows="5" id="T1" cols="68" style="display:none">
+Line 1: this line 1 这是第1行数据！
+Line 2: this line 2 这是第2行数据！
+Line 3: this line 3 这是第3行数据！
+Line 4: this line 4 这是第4行数据！
+</textarea>
+<p>exec (执行)<a href="javascript:printData()">print  (打印)</a></p>
+<p>exec (执行)<a href="javascript:cutPaper()">cut paper  (切纸)</a></p>
+<script language="javascript" type="text/javascript">  
+    var LODOP;
+	function MySelect() {	
+		LODOP=getLodop();  
+		LODOP.SELECT_PRINTER();
+	};
+
+	function printData() {
+		LODOP=getLodop();
+		strNeedToPrint=document.getElementById("T1").value
+		strData=String.fromCharCode(27,64)+strNeedToPrint; //flush printer's buffer before print 打印前先清空打印机缓冲区
+		LODOP.SET_PRINT_MODE("SEND_RAW_DATA_ENCODE","GBK");// print chinese use "GBK" 打印中文需要使用GBK编码
+		if (LODOP.CVERSION) {
+			LODOP.On_Return=function(TaskID,Value){ if (Value) alert("success"); else alert("failure"); };//alert can ignore 忽略弹窗
+			LODOP.SEND_PRINT_RAWDATA(strData);
+			return;
+		};
+		if (LODOP.SEND_PRINT_RAWDATA(strData))
+		 alert("success！"); else alert("failure");
+	};
+	function cutPaper() { //走N(8)行 切纸 print n(8) lines and cut paper
+		LODOP=getLodop();
+		strData=String.fromCharCode(27,64,27,100,8,29,86,1,49);
+		LODOP.SET_PRINT_MODE("SEND_RAW_DATA_ENCODE","GBK");
+		if (LODOP.CVERSION) {
+			LODOP.On_Return=function(TaskID,Value){ if (Value) alert("success"); else alert("failure"); };
+			LODOP.SEND_PRINT_RAWDATA(strData);
+			return;
+		};
+		if (LODOP.SEND_PRINT_RAWDATA(strData))
+		 alert("failure"); else alert("failure");
+	};
+</script> 
+</body>
+</html>
