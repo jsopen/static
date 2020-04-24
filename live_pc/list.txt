@@ -1,0 +1,53 @@
+.
+├── icon
+│   ├── gift
+│   │   ├── gif_01@1x.png
+│   │   ├── gif_02@1x.png
+│   │   ├── gif_03@1x.png
+│   │   ├── gif_04@1x.png
+│   │   └── gif_06@1x.png
+│   ├── level
+│   │   ├── 10-14@1x.png
+│   │   ├── 1-4@1x.png
+│   │   ├── 15-19@1x.png
+│   │   ├── 20-24@1x.png
+│   │   ├── 25-29@1x.png
+│   │   ├── 30-34@1x.png
+│   │   ├── 35-39@1x.png
+│   │   ├── 40-44@1x.png
+│   │   ├── 45-49@1x.png
+│   │   ├── 50@1x.png
+│   │   └── 5-9@1x.png
+│   ├── other
+│   │   ├── icon_01@1x.png
+│   │   ├── icon_02@1x.png
+│   │   ├── icon_03@1x.png
+│   │   ├── icon_10@1x.png
+│   │   ├── icon_11@1x.png
+│   │   ├── icon_12@1x.png
+│   │   ├── icon_13_left@1x.png
+│   │   ├── icon_14_rignt@1x.png
+│   │   ├── icon_15@1x.png
+│   │   ├── icon_16@1x.png
+│   │   ├── icon_17@1x.png
+│   │   ├── icon_4@1x.png
+│   │   ├── icon_delete@1x.png
+│   │   ├── icon_head\ @1x.png
+│   │   ├── icon_head2@1x.png
+│   │   ├── tip@1x.png
+│   │   ├── tip2@1x.png
+│   │   ├── tip3@1x.png
+│   │   └── zhubo2@1x.png
+│   └── sys
+│       ├── icon_5.1@1x.png
+│       ├── icon_5@1x.png
+│       ├── icon_6@1x.png
+│       ├── icon_7@1x.png
+│       ├── icon_8@1x.png
+│       ├── icon_9@1x.png
+│       ├── icon_cn@1x.png
+│       ├── icon_music_c@1x.png
+│       └── icon_music_o@1x.png
+└── list.txt
+
+5 directories, 45 files
