@@ -38,6 +38,23 @@
 ├── gif_03@1x.png
 ├── gif_04@1x.png
 ├── gif_06@1x.png
+├── icon
+│   └── huatong
+│       ├── Android
+│       │   ├── hdpi
+│       │   │   └── anzhuo_icon_huatong.png
+│       │   ├── mdpi
+│       │   │   └── anzhuo_icon_huatong.png
+│       │   ├── xhdpi
+│       │   │   └── anzhuo_icon_huatong.png
+│       │   ├── xxhdpi
+│       │   │   └── anzhuo_icon_huatong.png
+│       │   └── xxxhdpi
+│       │       └── anzhuo_icon_huatong.png
+│       └── ios
+│           ├── ios_icon_huatong@2x.png
+│           ├── ios_icon_huatong@3x.png
+│           └── ios_icon_huatong.png
 ├── icon_13_left@1x.png
 ├── icon_14_rignt@1x.png
 ├── icon_all@1x.png
@@ -64,4 +81,4 @@
 ├── pic_zhubo@1x.png
 └── tips@1x.png
 
-0 directories, 64 files
+9 directories, 72 files

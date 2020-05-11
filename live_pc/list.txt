@@ -7,21 +7,6 @@
 │   │   ├── gif_04@1x.png
 │   │   └── gif_06@1x.png
 │   ├── huatong
-│   │   ├── Android
-│   │   │   ├── hdpi
-│   │   │   │   └── anzhuo_icon_huatong.png
-│   │   │   ├── mdpi
-│   │   │   │   └── anzhuo_icon_huatong.png
-│   │   │   ├── xhdpi
-│   │   │   │   └── anzhuo_icon_huatong.png
-│   │   │   ├── xxhdpi
-│   │   │   │   └── anzhuo_icon_huatong.png
-│   │   │   └── xxxhdpi
-│   │   │       └── anzhuo_icon_huatong.png
-│   │   ├── ios
-│   │   │   ├── ios_icon_huatong@2x.png
-│   │   │   ├── ios_icon_huatong@3x.png
-│   │   │   └── ios_icon_huatong.png
 │   │   └── PC_icon_huatong.png
 │   ├── level
 │   │   ├── 10-14@1x.png
@@ -67,4 +52,4 @@
 │       └── icon_music_o@1x.png
 └── list.txt
 
-13 directories, 54 files
+6 directories, 46 files
