@@ -61,9 +61,15 @@
 │       ├── 4_heart_4.png
 │       ├── 4_heart_5.png
 │       ├── 4_heart_6.png
+│       ├── 5_lips_03.png
 │       ├── 5_lips_0.png
 │       ├── 5_lips_1.png
 │       ├── 5_lips_2.png
+│       ├── 5_lips_4.png
+│       ├── 5_lips_5.png
+│       ├── 5_lips_6.png
+│       ├── 5_lips_7.png
+│       ├── 5_lips_8.png
 │       ├── 6_diamonds_0.png
 │       ├── 6_diamonds_1.png
 │       ├── 6_diamonds_2.png
@@ -138,4 +144,4 @@
 │           └── NameList.txt
 └── list.txt
 
-3 directories, 135 files
+3 directories, 141 files
