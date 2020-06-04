@@ -11,6 +11,7 @@
 ├── icon_8@1x.png
 ├── icon_9@1x.png
 ├── icon_clock@1x.png
+├── icon_close@1x.png
 ├── icon_cn@1x.png
 ├── icon_daojishi@1x.png
 ├── icon_guan@1x.png
@@ -30,4 +31,4 @@
 ├── setting.png
 └── xuanz@1x.png
 
-0 directories, 30 files
+0 directories, 31 files
