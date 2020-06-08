@@ -1,4 +1,4 @@
-# ![Introduction](https://res-global.1315cdn.com:11443/statics/game_rules/bjl.png) Introduction To Baccarat Road
+# ![Introduction](https://res-global.keazjn8.cn/statics/game_rules/bjl.png) Introduction To Baccarat Road
 
 ## Baccarat Road
 
@@ -8,7 +8,7 @@ The Players can judge the results of subsequent draws by looking at the list of 
 
 Baccarat game play rules of the five road rules, there are "Zhuzi road","Big road","Big eyes road","small road","Bug road", the following is a detailed introduction for everyone.
 
-<img src = "https://res-global.1315cdn.com:11443/statics/game_rules/img_21.png" alt="All road" class="mw-475 all-road-sizing" />
+<img src = "https://res-global.keazjn8.cn/statics/game_rules/img_21.png" alt="All road" class="mw-475 all-road-sizing" />
 
 ### 1.Open cards Record of results
 
@@ -22,7 +22,7 @@ Red Circle is banker, Blue Circle is Player , Banker 1 row Player 1 row sort out
 
 The big eyes road is extended according to the big road starting from the second column and the second line of the big road,if there is no result at that position,the analysis starts at the third column and the first line of the road.
 
-<img src ="https://res-global.1315cdn.com:11443/statics/game_rules/img_2.png" class="mw-310 big-eyes-road-sizing" alt="Big eyes Road"/>
+<img src ="https://res-global.keazjn8.cn/statics/game_rules/img_2.png" class="mw-310 big-eyes-road-sizing" alt="Big eyes Road"/>
 
 - First, Big eyes road generated from the "big road" road list.The reference point of the starting point mark starts from the second row and second column of the road,If "Banker" or "Player" ,starting form the third row and first row of the road as a reference point.
 - The road regulations are generally:The first grain(ie the first grain of the big road)looks neat,neatly red, and irregularly blue,the second grain one is to see if there is or straight down,if there is or straight down to red,nothing to blue.
@@ -34,19 +34,19 @@ Big eye road rules for drawing blue circles :
 
 | (1)Down                                                                                                                    | (2)Swap                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_3.png" class="rule-img-sizing"/>                     | <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_4.png" class="rule-img-sizing"/>                                                                      |
+| <img src="https://res-global.keazjn8.cn/statics/game_rules/img_3.png" class="rule-img-sizing"/>                            | <img src="https://res-global.keazjn8.cn/statics/game_rules/img_4.png" class="rule-img-sizing"/>                                                                             |
 | Comparison of the previous results with the latest results from level,if no result,draw a blue circle on the big eye road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first two columns are not aligned, the result is "big eye road"blue circle. |
 
 Big eye road rules for drawing Red circles:
 
 | (1)Down                                                                                                                                                   | &nbsp;                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_5.png" class="rule-img-sizing"/>                                                    | <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_6.png" class="rule-img-sizing"/>                                                                     |
+| <img src="https://res-global.keazjn8.cn/statics/game_rules/img_5.png" class="rule-img-sizing"/>                                                           | <img src="https://res-global.keazjn8.cn/statics/game_rules/img_6.png" class="rule-img-sizing"/>                                                                            |
 | Comparison of the previous results with the latest results form level,whether the result is "banker" or "player",the result is "big eye road" red circle. | Comparison of the previous results with the latest results from level,As the first two rows of the previous column have no results,the result is "big eye road"red circle. |
 
 (2)Swap
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_7.png" alt="swap 2" class="mw-135 rule-img-sizing">
+<img src="https://res-global.keazjn8.cn/statics/game_rules/img_7.png" alt="swap 2" class="mw-135 rule-img-sizing">
 
 Take the latest result of Big Road,such as comparing the results of the previous column and the first two columns are aligned,the result is "big eye road" red circle.
 
@@ -55,32 +55,32 @@ Take the latest result of Big Road,such as comparing the results of the previous
 Red,Blue,Green express Banker win, player win,Tie.  
  The red dot in the upper left corner indicates the presence of banker pair,the blue dot in the lower right corner indicates the presence of player pair, if"banker pair" and "player pair" appear at the same time,mark the red and blue dots in both the upper left and lower right corners.
 
- <img class="mw-180i zhuzi-road-sizing" src = "https://res-global.1315cdn.com:11443/statics/game_rules/img_8.png" alt="ZhuziRoad">
+ <img class="mw-180i zhuzi-road-sizing" src = "https://res-global.keazjn8.cn/statics/game_rules/img_8.png" alt="ZhuziRoad">
 
 ### 5.Small Road
 
 - The starting reference point if from the third column and the second line of the big road,If there is no result at this coordinate in the big road,the starting reference point is the first row of the fourth column.
 - The method of judging whether it is neat,with or without and whether it is straight drop is the same as the method of big eye road,the difference is:The two columns referenced by "Small road" are the current column and the previous column,that is,the third column and the first column,the fourth column and the second column and so on.
 
-  <img class="270 small-road-sizing" src="https://res-global.1315cdn.com:11443/statics/game_rules/img_9.png" alt="Small Road"/>
+  <img class="270 small-road-sizing" src="https://res-global.keazjn8.cn/statics/game_rules/img_9.png" alt="Small Road"/>
 
 Small road rules for drawing blue dot :
 
 | (1)Down                                                                                                           | (2) Swap                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_10.png" class="rule-img-sizing"/>           | <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_11.png" class="rule-img-sizing"/>                                                                  |
+| <img src="https://res-global.keazjn8.cn/statics/game_rules/img_10.png" class="rule-img-sizing"/>                  | <img src="https://res-global.keazjn8.cn/statics/game_rules/img_11.png" class="rule-img-sizing"/>                                                                         |
 | Comparison the top two results with the latest results from level,if no result,draw a blue dot on the small road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first third columns are not aligned,the result is "small road" blue dot. |
 
 Small road rules for drawing red dot :
 
 | (1) Down                                                                                                                                         | &nbsp;                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_12.png" class="rule-img-sizing"/>                                          | <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_13.png" class="rule-img-sizing"/>                                                           |
+| <img src="https://res-global.keazjn8.cn/statics/game_rules/img_12.png" class="rule-img-sizing"/>                                                 | <img src="https://res-global.keazjn8.cn/statics/game_rules/img_13.png" class="rule-img-sizing"/>                                                                  |
 | Comparison the top two results with the latest results from level,whether the result is "banker" or "player",the result is "small road" red dot. | Comparison the top two results with the latest results from level,As the first two rows of the previous column have no results,the result is "small road"red dot. |
 
 (2) Swap
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_14.png" alt="Swap" class="mw-135 rule-img-sizing"/>
+<img src="https://res-global.keazjn8.cn/statics/game_rules/img_14.png" alt="Swap" class="mw-135 rule-img-sizing"/>
 
 Take the latest result of Big Road, such as comparing the results of the previous column and the first third columns are aligned,the result is "small road" red dot.
 
@@ -90,25 +90,25 @@ Take the latest result of Big Road, such as comparing the results of the previou
 
 - The method of judging whether it is neat,with or without and whether it is straight drop is the same as the method of big eye road,the difference is:The two columns referenced by "Bug road" are the current column and the previous column,that is,the fourth column and the first column,the five column and the second column and so on.
 
-  <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_15.png" alt="Bug Road" class="mw-270 bug-road-sizing"/>
+  <img src="https://res-global.keazjn8.cn/statics/game_rules/img_15.png" alt="Bug Road" class="mw-270 bug-road-sizing"/>
 
 Bug road rules for drawing blue Slash :
 
 | (1)Down                                                                                                           | (2)Swap                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_16.png" class="rule-img-sizing"/>           | <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_17.png" class="rule-img-sizing"/>                                                               |
+| <img src="https://res-global.keazjn8.cn/statics/game_rules/img_16.png" class="rule-img-sizing"/>                  | <img src="https://res-global.keazjn8.cn/statics/game_rules/img_17.png" class="rule-img-sizing"/>                                                                      |
 | Comparison the top third results with the latest results from level,if no result,draw blue slash on the Bug road. | Take the latest result of Big Road,such as comparing the results of the previous column and the first fourth columns are not aligned,draw blue slash on the bug road. |
 
 Bug road rules for drawing blue Slash :
 
 | (1)Down                                                                                                                                             | &nbsp;                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_18.png" class="rule-img-sizing"/>                                             | <img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_19.png" class="rule-img-sizing"/>                                                                 |
+| <img src="https://res-global.keazjn8.cn/statics/game_rules/img_18.png" class="rule-img-sizing"/>                                                    | <img src="https://res-global.keazjn8.cn/statics/game_rules/img_19.png" class="rule-img-sizing"/>                                                                        |
 | Comparison the top three results with the latest results from level,whether the result is "banker" or "player" the results is "bug road" red slash. | Comparison the top three results with the latest results from level,As the first two rows of the first three column have no results,the result is "bug road" red slash. |
 
 (2)Swap
 
-<img src="https://res-global.1315cdn.com:11443/statics/game_rules/img_20.png" alt="Swap" class="mw-135 rule-img-sizing">
+<img src="https://res-global.keazjn8.cn/statics/game_rules/img_20.png" alt="Swap" class="mw-135 rule-img-sizing">
 
 Take the latest result of Big Road,such as comparing the results of the previous column and the first fourth columms are aligned,the result is "bug road" red slash.
 

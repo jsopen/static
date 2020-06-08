@@ -1,8 +1,8 @@
-### ![Game play](https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_p.png) Game Play
+### ![Game play](https://res-global.keazjn8.cn/statics/game_rules/icon_g_p.png) Game Play
 
 The game uses a deck of 52 playing cards with big and small Joker removed, Distribute 5 cards per player, Compare cards sizes to determine victory.
 
-### ![Game rules](https://res-global.1315cdn.com:11443/statics/game_rules/icon_g_r.png) Game Rules
+### ![Game rules](https://res-global.keazjn8.cn/statics/game_rules/icon_g_r.png) Game Rules
 
 1. Red and Black wins lose and tie: Compare the size of the two red and black cards to determine the results.If the results of "Red Bull" and "Black Bull" are
    same the game results must be "Tie",No compare Specific cards points and type , player will be refunded.
@@ -20,7 +20,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
 | ----------- | ------------------------------------------------------------------------------------------------------ |
 | FiveCalf    | Each card is less than 5 and all cards sum up to less than or equal to 10.                             |
 | Bomb        | 4 of 5Cards must be same and the last any card.                                                        |
-| Gold Bull   | All 5 Cards must be Above 10(for eg.J,Q,K).                                                            |  
+| Gold Bull   | All 5 Cards must be Above 10(for eg.J,Q,K).                                                            |
 | Silver Bull | 5 Cards are all 10 and above, including at least 1 card is 10.                                         |
 | Bull Bull   | The sum of any 3 cards is a multiple of 10, and the sum of the other 2 cards is also a multiple of 10. |
 | Bull(9)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 9 or 19.                                    |
@@ -34,7 +34,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
 | Bull(1)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 1 or 11.                                    |  |
 | No Bull     | The sum of any 3 cards is not 10.                                                                      |
 
-### ![Rate](https://res-global.1315cdn.com:11443/statics/game_rules/icon_r.png) Rate
+### ![Rate](https://res-global.keazjn8.cn/statics/game_rules/icon_r.png) Rate
 
 | Bet items                            | Rate     |
 | ------------------------------------ | -------- |
@@ -54,7 +54,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
 | Double Bull                          | 1 : 100  |
 | Silver Bull/Gold Bull/Five Calf/Bomb | 1 : 120  |
 
-### ![Notice](https://res-global.1315cdn.com:11443/statics/game_rules/icon_warn.png) Notice :
+### ![Notice](https://res-global.keazjn8.cn/statics/game_rules/icon_warn.png) Notice :
 
 1. In case of settlement errors, re-settle according to the current video results.
 2. If the game fails to complete the game due to the failure of the game platform network during the game, the system will cancel the player's bet and return the bet principal.
