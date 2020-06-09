@@ -1,0 +1,24 @@
+.
+├── 1334hengban.png
+├── 1334shuban.png
+├── icon_1.png
+├── icon_2.png
+├── icon_3.png
+├── icon_clock.png
+├── icon_close.png
+├── icon_laba.png
+├── icon_qiehuan.png
+├── list.txt
+├── menu_jilu.png
+├── menu_language.png
+├── menu_money.png
+├── menu_rules.png
+├── menu_set.png
+├── menu_touxiang.png
+├── menu_user.png
+├── menu_voice_close.png
+├── menu_voice_open.png
+├── menu_xiaoxi.png
+└── menu_xiugai.png
+
+0 directories, 21 files
