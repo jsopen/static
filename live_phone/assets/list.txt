@@ -9,6 +9,8 @@
 ├── icon_clock.png
 ├── icon_close.png
 ├── icon_laba.png
+├── icon_music_c.png
+├── icon_music_o.png
 ├── icon_qiehuan.png
 ├── list.txt
 ├── menu_jilu.png
@@ -23,4 +25,4 @@
 ├── menu_xiaoxi.png
 └── menu_xiugai.png
 
-0 directories, 23 files
+0 directories, 25 files
