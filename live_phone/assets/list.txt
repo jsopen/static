@@ -1,6 +1,7 @@
 .
 ├── 1334hengban.png
 ├── 1334shuban.png
+├── bg_daojishizise.png
 ├── icon_1.png
 ├── icon_2.png
 ├── icon_3.png
@@ -21,4 +22,4 @@
 ├── menu_xiaoxi.png
 └── menu_xiugai.png
 
-0 directories, 21 files
+0 directories, 22 files
