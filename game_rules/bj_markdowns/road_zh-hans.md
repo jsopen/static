@@ -1,4 +1,4 @@
-# ![Introduction](https://res-global.keazjn8.cn/statics/game_rules/bjl.png) 百 家 乐 牌 路 介 绍
+# ![Introduction](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/bjl.png) 百 家 乐 牌 路 介 绍
 
 ## 百家乐路单
 
