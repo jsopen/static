@@ -1,12 +1,12 @@
-### ![introduction](https://res-global.keazjn8.cn/statics/game_rules/icon_i.png) introduction
+### ![introduction](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/file.png) introduction
 
 For a long time, Baccarat is one of the most popular games in Asia, Europe and Latin America, simple to play but nervous and stimulate.
 
-### ![how to win](https://res-global.keazjn8.cn/statics/game_rules/icon_win.png) How to win
+### ![how to win](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/cup.png) How to win
 
 In Baccarats Distribute two player cards <\<player\>> and <\<Banker\>>, which one with a total got a 9 points or near 9 will be win.
 
-### ![Operation and betting guide](https://res-global.keazjn8.cn/statics/game_rules/icon_set.png) Operation and betting guide
+### ![Operation and betting guide](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/setting.png) Operation and betting guide
 
 1. Click on the betting chip, then click on any betting area on the table.
 2. Player and Banker will be dealt two cards that sum up to 10 for 0, if the sum exceeds 9 only the single digit of the total is counted
@@ -14,11 +14,11 @@ In Baccarats Distribute two player cards <\<player\>> and <\<Banker\>>, which on
 4. After sending out two cards, if the face of the first two cards of any sum is 0 to 6, one more card will be dealt in accordance with with the rules of the card, not allowed optional cards.
 5. No one hand has more than three cards.
 
-### ![Game play](https://res-global.keazjn8.cn/statics/game_rules/icon_g_p.png) Game play
+### ![Game play](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/noti.png) Game play
 
 This game is played with 8 decks (52 cards each) for a total of 416 decks, "Player" "Banker" each send two cards, start with "Player", If the first round is not divided win lose, the second round of cards shall be dealt according to the "card case". Draw a card, whoever is near to 9 points is the winner, and the same point is the Tie.
 
-### ![Game rules](https://res-global.keazjn8.cn/statics/game_rules/icon_g_r.png) Game rules
+### ![Game rules](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/help.png) Game rules
 
 1. Points Calculation
 
@@ -53,7 +53,7 @@ Example:
 | 8                               | "Born Winner"             | 8                               | "Born Winner"                                                                               |
 | 9                               | "Born Winner"             | 9                               | "Born Winner"                                                                               |
 
-### ![Rate](https://res-global.keazjn8.cn/statics/game_rules/icon_r.png) Rate
+### ![Rate](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/money.png) Rate
 
 This game privides players with baccarat gameplay.
 THe bet types and rate are as follows:
@@ -70,6 +70,6 @@ THe bet types and rate are as follows:
 
 Banker/Player Pair : Refers to the card face ( same number or alphabet, no matter card type) of the first two cards of "Banker/Player" dealt by the authorities, the card face are the same "Pair". In the game, the first two cards face of "Banker" have the same as "Banker Pair" that is the bet on "Banker Pair" is win. The first two cards face of "Player" have the same as "Player Pair" that is the bet on "Player Pair" is win.
 
-### ![Notice](https://res-global.keazjn8.cn/statics/game_rules/icon_warn.png) Notice
+### ![Notice](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/notic.png) Notice
 
 In case of settlement errors, re-settle according to the current video results.
