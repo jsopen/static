@@ -1,4 +1,4 @@
-# ![Introduction](https://res-global.keazjn8.cn/statics/game_rules/bjl.png) Introduction To Baccarat Road
+# ![Introduction](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/bjl.png) Introduction To Baccarat Road
 
 ## Baccarat Road
 
