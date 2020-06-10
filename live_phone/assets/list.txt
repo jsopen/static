@@ -3,6 +3,7 @@
 ├── 1334shuban.png
 ├── bg_daojishi.png
 ├── bg_daojishizise.png
+├── checked-box.png
 ├── icon_1.png
 ├── icon_2.png
 ├── icon_3.png
@@ -12,6 +13,7 @@
 ├── icon_music_c.png
 ├── icon_music_o.png
 ├── icon_qiehuan.png
+├── icon_xuanz.png
 ├── list.txt
 ├── menu_jilu.png
 ├── menu_language.png
@@ -23,6 +25,7 @@
 ├── menu_voice_close.png
 ├── menu_voice_open.png
 ├── menu_xiaoxi.png
-└── menu_xiugai.png
+├── menu_xiugai.png
+└── unchecked-box.png
 
-0 directories, 25 files
+0 directories, 28 files
