@@ -4,6 +4,7 @@
 ├── bg_daojishi.png
 ├── bg_daojishizise.png
 ├── checked-box.png
+├── icon_03@1x.png
 ├── icon_1.png
 ├── icon_2.png
 ├── icon_3.png
@@ -28,4 +29,4 @@
 ├── menu_xiugai.png
 └── unchecked-box.png
 
-0 directories, 28 files
+0 directories, 29 files
