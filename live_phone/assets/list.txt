@@ -10,6 +10,7 @@
 ├── icon_3.png
 ├── icon_clock.png
 ├── icon_close.png
+├── icon_gold.png
 ├── icon_laba.png
 ├── icon_music_c.png
 ├── icon_music_o.png
@@ -29,4 +30,4 @@
 ├── menu_xiugai.png
 └── unchecked-box.png
 
-0 directories, 29 files
+0 directories, 30 files
