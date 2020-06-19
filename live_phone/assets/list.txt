@@ -11,6 +11,7 @@
 ├── icon_clock.png
 ├── icon_close.png
 ├── icon_gold.png
+├── icon_kefu.png
 ├── icon_laba.png
 ├── icon_music_c.png
 ├── icon_music_o.png
@@ -20,6 +21,7 @@
 ├── menu_jilu.png
 ├── menu_language.png
 ├── menu_money.png
+├── menu_money_purple.png
 ├── menu_rules.png
 ├── menu_set.png
 ├── menu_touxiang.png
@@ -30,4 +32,4 @@
 ├── menu_xiugai.png
 └── unchecked-box.png
 
-0 directories, 30 files
+0 directories, 32 files
