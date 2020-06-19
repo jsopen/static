@@ -4,12 +4,14 @@
 ├── bg_daojishi.png
 ├── bg_daojishizise.png
 ├── checked-box.png
+├── dibu.png
 ├── icon_03@1x.png
 ├── icon_1.png
 ├── icon_2.png
 ├── icon_3.png
 ├── icon_clock.png
 ├── icon_close.png
+├── icon_cn.png
 ├── icon_gold.png
 ├── icon_kefu.png
 ├── icon_laba.png
@@ -18,6 +20,7 @@
 ├── icon_qiehuan.png
 ├── icon_xuanz.png
 ├── list.txt
+├── logout.png
 ├── menu_jilu.png
 ├── menu_language.png
 ├── menu_money.png
@@ -30,6 +33,13 @@
 ├── menu_voice_open.png
 ├── menu_xiaoxi.png
 ├── menu_xiugai.png
+├── music_c_purple.png
+├── music_o_purple.png
+├── rules_purple.png
+├── setting_purple.png
+├── sound_c_purple.png
+├── sound_o_purple.png
+├── transaction_purple.png
 └── unchecked-box.png
 
-0 directories, 32 files
+0 directories, 42 files
