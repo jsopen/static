@@ -1,5 +1,6 @@
 .
 ├── BG_changtiao@1x.png
+├── bjl.png
 ├── cup.png
 ├── file.png
 ├── full_screen_PC.png
@@ -24,6 +25,7 @@
 ├── icon_shuaxin@1x.png
 ├── icon_users@1x.png
 ├── icon_video@1x.png
+├── icon_volume@1x.png
 ├── list.txt
 ├── money.png
 ├── notic.png
@@ -31,4 +33,4 @@
 ├── setting.png
 └── xuanz@1x.png
 
-0 directories, 31 files
+0 directories, 33 files
