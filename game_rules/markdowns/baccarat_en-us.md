@@ -1,8 +1,8 @@
-### ![introduction](https://res-global.keazjn8.cn/statics/game_rules/icon_i.png) introduction
+### ![Introduction](https://res-global.keazjn8.cn/statics/game_rules/icon_i.png) introduction
 
 For a long time, Baccarat is one of the most popular games in Asia, Europe and Latin America, simple to play but nervous and stimulate.
 
-### ![how to win](https://res-global.keazjn8.cn/statics/game_rules/icon_win.png) How to win
+### ![How to win](https://res-global.keazjn8.cn/statics/game_rules/icon_win.png) How to win
 
 In Baccarats Distribute two player cards <\<player\>> and <\<Banker\>>, which one with a total got a 9 points or near 9 will be win.
 

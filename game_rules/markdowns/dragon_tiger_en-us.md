@@ -1,8 +1,8 @@
-### ![introduction](https://res-global.keazjn8.cn/statics/game_rules/icon_i.png) introduction
+### ![Introduction](https://res-global.keazjn8.cn/statics/game_rules/icon_i.png) introduction
 
 A gambling game that determines whether to win or lose based on chess and card points,easy to learn,let players fully experience the fun of the carsino!
 
-### ![how to win](https://res-global.keazjn8.cn/statics/game_rules/icon_win.png) How to win
+### ![How to win](https://res-global.keazjn8.cn/statics/game_rules/icon_win.png) How to win
 
 Correctly expected the two player <\<Dragon\>> and <\<Tiger\>> points to be compare larger.
 
