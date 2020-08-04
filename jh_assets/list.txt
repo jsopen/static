@@ -1,5 +1,6 @@
 .
 ├── bg_daojishizise@2x.png
+├── checked-box.png
 ├── icon_1@2x.png
 ├── icon_13_left@2x\ (1).png
 ├── icon_13_left@2x.png
@@ -21,6 +22,7 @@
 ├── menu_user@2x.png
 ├── menu_voice_close@2x.png
 ├── menu_voice_open@2x.png
-└── menu_xiugai@2x.png
+├── menu_xiugai@2x.png
+└── unchecked-box.png
 
-0 directories, 23 files
+0 directories, 25 files
