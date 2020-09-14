@@ -1,0 +1,44 @@
+0
+EN:	candy
+CN:	棒棒糖
+
+1
+EN:	flower
+CN:	捧花
+
+2
+EN:	magic
+CN:	魔法棒
+
+3
+EN:	star
+CN:	星星
+
+4
+EN:	heart
+CN:	爱心
+
+5
+EN:	lips
+CN:	红唇
+
+6
+EN:	diamonds
+CN:	钻石
+
+7
+EN:	bikini
+CN:	比基尼
+
+
+8
+EN:	balloon
+CN:	热气球
+
+9
+EN:	Ramadan
+CN:	斋月
+
+10
+EN:	Porsche
+CN:	保时捷
