@@ -1,8 +1,8 @@
-### ![Game play](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/noti.png) 游 戏 玩 法
+### ![Game play](https://images.staticfile.cc/statics/live_pc/icon/sys/noti.png) 游 戏 玩 法
 
 游戏使用一副去掉大、小王的 52 张扑克牌，每局每家派发 5 张牌，比较牌型大小决定胜负。
 
-### ![Game rules](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/help.png) 游 戏 规 则
+### ![Game rules](https://images.staticfile.cc/statics/live_pc/icon/sys/help.png) 游 戏 规 则
 
 1. 红黑胜负和：比较红黑两家的牌型大小决定胜负，如果“红牛”与“黑牛”的牌型一致，则为“和”，不再比较具体牌值和花色，将会退回玩家投注“红牛”和“黑牛”的下注筹码，投注牌型的输赢则和两家的比牌结果无关，例如：红牛为牛三，黑牛也为牛三，即为和局，投注牌型“牛三”为赢
 2. 牛一，牛二……牛牛，银牛/金牛/炸弹/五小牛：只要红黑两家任意一家出现指定牌型即算赢
@@ -32,7 +32,7 @@
 | 牛一   | 3 张 10 的倍数组合，剩余 2 张相加为 1 或 11              |  |
 | 无牛   | 五张牌中没有任意三张牌，点数之和为 10 的整数倍           |
 
-### ![Rate](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/money.png) 派 彩 赔 率
+### ![Rate](https://images.staticfile.cc/statics/live_pc/icon/sys/money.png) 派 彩 赔 率
 
 | 牌型                  | 赔率     |
 | --------------------- | -------- |
@@ -52,7 +52,7 @@
 | 双牛牛                | 1 : 100  |
 | 银牛/金牛/炸弹/五小牛 | 1 : 120  |
 
-### ![Notice](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/notic.png) 注 意 事 项 :
+### ![Notice](https://images.staticfile.cc/statics/live_pc/icon/sys/notic.png) 注 意 事 项 :
 
 1. 如遇结算错误，按照当期视频结果重新结算。
 2. 如游戏过程中因游戏平台网络等故障造成未能正常完成牌局,系统将取消整局玩家下注并退回下注本金。

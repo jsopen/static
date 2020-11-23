@@ -1,8 +1,8 @@
-### ![Game play](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/noti.png) Game Play
+### ![Game play](https://images.staticfile.cc/statics/live_pc/icon/sys/noti.png) Game Play
 
 The game uses a deck of 52 playing cards with big and small Joker removed, Distribute 5 cards per player, Compare cards sizes to determine victory.
 
-### ![Game rules](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/help.png) Game Rules
+### ![Game rules](https://images.staticfile.cc/statics/live_pc/icon/sys/help.png) Game Rules
 
 1. Red and Black wins lose and tie: Compare the size of the two red and black cards to determine the results.If the results of "Red Bull" and "Black Bull" are
    same the game results must be "Tie",No compare Specific cards points and type , player will be refunded.
@@ -34,7 +34,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
 | Bull(1)     | 3 cards in multiples of 10,the sum of remaining 2 cards is 1 or 11.                                    |  |
 | No Bull     | The sum of any 3 cards is not 10.                                                                      |
 
-### ![Rate](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/money.png) Rate
+### ![Rate](https://images.staticfile.cc/statics/live_pc/icon/sys/money.png) Rate
 
 | Bet items                            | Rate     |
 | ------------------------------------ | -------- |
@@ -54,7 +54,7 @@ The game uses a deck of 52 playing cards with big and small Joker removed, Distr
 | Double Bull                          | 1 : 100  |
 | Silver Bull/Gold Bull/Five Calf/Bomb | 1 : 120  |
 
-### ![Notice](https://res-global.keazjn8.cn/statics/live_pc/icon/sys/notic.png) Notice :
+### ![Notice](https://images.staticfile.cc/statics/live_pc/icon/sys/notic.png) Notice :
 
 1. In case of settlement errors, re-settle according to the current video results.
 2. If the game fails to complete the game due to the failure of the game platform network during the game, the system will cancel the player's bet and return the bet principal.
